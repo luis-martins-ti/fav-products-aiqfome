@@ -81,7 +81,7 @@ docker-compose logs -f web
 - Pytest para testes
 
 ### Arquitetura:
-rural_api/
+fav-products-aiqfome/
 ├── app/
 │   ├── api/                  # Rotas
 │   ├── auth/                 # Autenticação JWT
